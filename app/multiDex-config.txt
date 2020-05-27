@@ -1,0 +1,3 @@
+com/test/tinkerdemo/BaseActivity.class
+com/test/tinkerdemo/BaseApplication.class
+com/test/tinkerdemo/MainActivity.class
